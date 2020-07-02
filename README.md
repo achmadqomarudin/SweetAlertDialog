@@ -14,7 +14,7 @@ Repo to demonstrate Sweet Alert Dialog in Android. This is a follow up on the gi
 
 # Demo App
 
-[Demo Download](https://github.com/achmadqomarudin/SweetAlertDialog/screenshots/app-demo.apk)
+[Demo Download](https://github.com/achmadqomarudin/SweetAlertDialog/blob/master/screenshots/app-demo.apk)
 
 <table style="width:100%">
   <tr>
